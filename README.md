@@ -1,2 +1,7 @@
-# my-final-portfolio
-This repo contains all the HTML and CSS codes of the final version of my portfolio
+# My Portofolio
+
+This REPO will contains all the codes that will be used for my portofolio.
+
+CSS file:
+
+Homepage file:
